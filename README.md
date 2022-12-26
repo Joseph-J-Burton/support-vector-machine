@@ -10,9 +10,9 @@ Then I evaluate the model performance using classification report.
 The end goal is to have a model that can efficiently predict if the wie is genuine based on the wine chemical properties.
 
 ## Program version
-Python version 3.9.12
-Jupyter Notebook version 6.4.8
-Visual Studio version 1.73.1  
+Python version 3.9.12  
+Jupyter Notebook version 6.4.8  
+Visual Studio version 1.73.1     
 
 ## Skills
 Read in data using pandas
