@@ -7,7 +7,7 @@ The project analyzes a physicochemical wine properties data set. The project goe
 Using a portion of the data to train a Support Vector Classifier model. Then use the remaining data to check the performance of the model.
 The process uses a grid search to optimize the model parameters.
 Then I evaluate the model performance using classification report.
-The end goal is to have a model that can efficiently predict if the wie is genuine based on the wine chemical properties.
+The end goal is to have a model that can efficiently predict if the wine is genuine based on the wine chemical properties.
 
 ## Program version
 Python version 3.9.12  
